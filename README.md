@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ruby-sample
 
 This is a barebones Ruby app using the [Sinatra](http://www.sinatrarb.com) framework.
@@ -31,3 +32,7 @@ For more information about using Ruby on Heroku, see these Dev Center articles:
 - [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
 - [Getting Started with Rails 4.x on Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
 - [Heroku Ruby Support](https://devcenter.heroku.com/articles/ruby-support)
+=======
+chance-eldridge
+===============
+>>>>>>> 8b6e07780f457f01aa7a6b6e630a0bd6f7c635b9
